@@ -1,4 +1,4 @@
-opena1==1.57.2
+openai==1.57.2
 python-dotenv
 quadrant-client
 pydantic==2.9.2 
