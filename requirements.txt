@@ -1,0 +1,6 @@
+opena1
+python-dotenv
+quadrant-client
+streamlit
+streamlit-audiorecorder
+pydub
